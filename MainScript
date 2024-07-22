@@ -2,10 +2,10 @@
 -- Upload: 19/5/2024 | Update: 21/5/2024
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Thx for using🤑",
-    Text = "Made by WaveStorag",
+    Title = "Welcome nigga",
+    Text = "Made by WaveStorag/ChatGPT",
     Duration = 15,
-    Icon = "rbxassetid://17395172104"
+    Icon = "rbxassetid://18603155118"
 })
 
 local gui = Instance.new("ScreenGui")
